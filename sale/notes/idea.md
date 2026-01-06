@@ -1,4 +1,1 @@
-If everyone clicks at once, the system must remain calm.
-
-
-
+When everyone clicks at once, time becomes law.
