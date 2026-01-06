@@ -1,6 +1,13 @@
 # DecisionEngine
-— and the system that stays calm when everyone clicks at once.
-a minimal matching engine that decides winners fairly using
-price–time priority — the same idea behind ticket booking systems,
-flash sales, and trading platforms.
+
+DecisionEngine is a simulation of high-pressure systems where
+thousands of actions happen at the same time.
+
+The goal is simple:
+**when everyone wants the same thing, the system must decide — fairly.**
+
+Inspired by ticket booking platforms, flash sales, and trading systems,
+this project focuses on correctness, priority, and calm decision-making
+under chaos.
+
 
