@@ -1,3 +1,4 @@
-If everyone clicks at once, the system must not panic.
+If everyone clicks at once, the system must remain calm.
+
 
 
